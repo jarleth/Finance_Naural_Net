@@ -1,1 +1,1 @@
-# Finance_Naural_Net
+# Finance_Neural_Net
